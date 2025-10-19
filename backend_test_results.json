@@ -1,0 +1,109 @@
+{
+  "summary": {
+    "tests_run": 20,
+    "tests_passed": 20,
+    "success_rate": 100.0
+  },
+  "results": [
+    {
+      "test": "User Registration",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Token Received",
+      "status": "PASS",
+      "details": "Authentication token obtained"
+    },
+    {
+      "test": "User Login",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Current User",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get All Courses",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Courses Available",
+      "status": "PASS",
+      "details": "Found 8 courses"
+    },
+    {
+      "test": "Search Courses",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Filter by Tamil",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Filter by English",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Course Detail",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get Course Videos",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Videos Available",
+      "status": "PASS",
+      "details": "Found 3 videos"
+    },
+    {
+      "test": "Update Video Progress",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Get User Progress",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Progress Tracking",
+      "status": "PASS",
+      "details": "Progress saved for 1 videos"
+    },
+    {
+      "test": "Complete Video",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Generate Certificate",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Certificate Generated",
+      "status": "PASS",
+      "details": "Certificate ID: 0a2fb491"
+    },
+    {
+      "test": "Get Certificate",
+      "status": "PASS",
+      "details": "Status: 200"
+    },
+    {
+      "test": "Certificate Retrieval",
+      "status": "PASS",
+      "details": "Certificate retrieved successfully"
+    }
+  ]
+}
